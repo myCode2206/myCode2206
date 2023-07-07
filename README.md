@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/myCode2206/myCode2206/blob/main/banner.png)
+![MasterHead](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 <h1 align="center">Hi 👋, I'm Rajat</h1>
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400"
