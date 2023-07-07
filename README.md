@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning WEB DEVELOPMENT & DSA<br><br>👯 I’m looking to collaborate on OpenSource Projects.<br><br>💬 Ask me about WebD,Cpp,Java,DSA<br><br>📫 How to reach me rajatyt2206@gmail.com<br><br>⚡ Fun fact While There's CODE There's A BUG
+🌱 I’m currently learning WEB DEVELOPMENT<br><br>👯 I’m looking to collaborate on OpenSource Projects.<br><br>💬 Ask me about WebD,Cpp,Java,DSA<br><br>📫 How to reach me rajatyt2206@gmail.com<br><br>⚡ Fun fact While There's CODE There's A BUG
 
 
 ## 🌐 Socials:
